@@ -69,7 +69,7 @@
                                     <div class="top-bar-icon"><i class="flaticon-send-mail"></i></div>
                                     <div class="top-bar-text">
                                         <h3>Email</h3>
-                                        <p>info@example.com</p>
+                                        <p>ptlematang@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -146,13 +146,7 @@
                             <a href="#">Akan Datang</a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-link">
-                            <h2>Visi dan Misi</h2>
-                            <a href="#">Visi</a>
-                            <a href="#">Misi</a>
-                        </div>
-                    </div>
+
                     <div class="col-md-6 col-lg-3">
                         <div class="newsletter">
                             <img src="{{ asset('img/ptlematang nobg.png') }}" alt="">
