@@ -18,3 +18,6 @@ Route::get('/contact', function () {
 Route::get('/visimisi', function () {
     return view('visimisi');
 });
+Route::get('/selflearning', function () {
+    return view('selflearning');
+});
