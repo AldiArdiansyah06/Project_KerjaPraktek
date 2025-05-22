@@ -1,3 +1,11 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
 /*******************************/
 /********* General CSS *********/
 /*******************************/
@@ -41,8 +49,7 @@ a:focus {
 .wrapper {
     position: relative;
     width: 100%;
-    max-width: 1366px;
-    margin: 0 auto;
+    margin: 0;
     background: #ffffff;
 }
 
@@ -171,7 +178,6 @@ a:focus {
     position: fixed;
     top: 0;
     width: 100%;
-    max-width: 1366px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
     z-index: 999;
 }
@@ -678,6 +684,10 @@ a:focus {
 }
 
 .about .about-text p {
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5;
+    margin-bottom: 1em;
     font-size: 16px;
 }
 
@@ -2446,12 +2456,12 @@ a:focus {
 .icon-top {
     width: 20px;
     height: 20px;
-    background-color: #FFD700; /* Yellow */
+    background-color: hsl(119, 100%, 50%); /* Yellow */
 }
 .icon-bottom {
     width: 20px;
     height: 20px;
-    background-color: #B8860B; /* Darker yellow */
+    background-color: #0bb82b; /* Darker yellow */
 }
 
 /* Title and Text */

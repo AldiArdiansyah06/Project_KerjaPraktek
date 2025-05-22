@@ -15,22 +15,24 @@
                 </div>
                 <div class="col-lg-7 col-md-6">
                     <div class="section-header text-left">
-                        <p>Welcome to Builderz</p>
-                        <h2>25 Years Experience</h2>
+                        <p>Welcome to PT Lematang</p>
+                        <h2>39 Years Experience</h2>
                     </div>
                     <div class="about-text">
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi.
-                            Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida
-                            condimentum, viverra quis sem.
+                           PT. Lematang adalah sebuah perusahaan yang didirikan pada tanggal 31 desember 1986 berdasarkan akte notaris Janti Gunardi, SH. No. 141 dengan nama awal CV Lematang yang selanjutnya pada tanggal 26 februari 2004 menjadi PT Lematang. PT Lematang merupakan perusahaan yang bergerak di bidang penyewaan alat berat dan truk, serta jasa penyewaan peralatan kerja dan peralatan produksi atau kontruksi. Sejak didirakan, PT Lematang telah menunjukkan komitmen tinggi dalam mendukung kegiatan industri dan pembangunan nasional, terutama dalam sektor pertambangan, energi, dan infrastruktur.
                         </p>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi.
-                            Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida
-                            condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean
-                            consectetur convallis porttitor. Aliquam interdum at lacus non blandit.
+                            Keberhasilan PT Lematang dalam membangun jaringan pelanggan yang luas tidak terlepas dari kepercayaan yang di berikan oleh mitra-mitranya. Beberapa perusahaan besar yang telah mempercayakan kebutuhan penyewaan alat berat kepada PT Lematang antara lain :
+                            <ol>
+                                <li>PT. Tambang Batubara Bukit Asam - Tanjung Enim</li>
+                                <li>PT. Tambang Batubara Tarahan - Bandar Lampung</li>
+                                <li>PT. Pertamina Region Prabumulih - Prabumulih</li>
+                                <li>PT. Medco Energi International - Soka</li>
+                            </ol>
+                            Jasa yang ditawarkan PT. Lematang meliputi penyewaan berbagai jenis alat berat dan truk untuk mendukung berbagai kegiatan operasional, baik dalam skala kecil maupun besar. Adapun jenis alat berat dan kendaraan yang tersedia mencakup: bulldozer, excavator, compactor, motor grader, backhoe loader, prime mover, flat bed truck, dump truck, crane truck, vacuum truck, dan lain sebagainya. Perusahaan terus berupaya memperluas dan memperbarui armada guna menjawab tantangan kebutuhan industri yang dinamis dan kompleks.
                         </p>
-                        <a class="btn" href="">Lihat Lokasi</a>
+                        <a class="btn" href="https://maps.app.goo.gl/R7BcKWLxnu4CTnCf6?g_st=com.google.maps.preview.copy">Lihat Lokasi</a>
                     </div>
                 </div>
             </div>

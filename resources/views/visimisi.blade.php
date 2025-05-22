@@ -1,6 +1,6 @@
 @extends('layout.main')
 
-@section('title', 'Kontak')
+@section('title', 'VISI MISI')
 
 @section('content')
 <div class="section-vision-mission">
